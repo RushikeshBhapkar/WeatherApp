@@ -1,0 +1,20 @@
+PODS:
+  - AFDateHelper (4.3.0)
+  - PYSearch (0.9.1)
+
+DEPENDENCIES:
+  - AFDateHelper
+  - PYSearch
+
+SPEC REPOS:
+  trunk:
+    - AFDateHelper
+    - PYSearch
+
+SPEC CHECKSUMS:
+  AFDateHelper: b769c07d3d4784ee9a74633285304261bb27dc52
+  PYSearch: 76dee18eea3309b60921a5d6a69390a63a5dda15
+
+PODFILE CHECKSUM: d433b38c5a53ba5c7b92bcced6e23aca968567dc
+
+COCOAPODS: 1.8.4
