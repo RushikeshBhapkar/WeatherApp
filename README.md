@@ -1,5 +1,5 @@
 # WeatherApp
-Weather app to search get the weather forecast
+Weather app to get the weather forecast
 
 Steps to run project
 1. Clone project from https://github.com/RushikeshBhapkar/WeatherApp.git
